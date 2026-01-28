@@ -41,7 +41,7 @@ https://x.com/Kunalmadoliya/status/2016408895787565312?s=20
 ### 🔹 Screen shot
 Screen shot of the page 
 
-![HTML resume](I:\chaiaurHTML\screenshot.png)
+![HTML resume](screenshot.png)
 
 ---
 
